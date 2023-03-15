@@ -1,0 +1,35 @@
+.table {
+    margin: 10% auto;
+    width: 60%;
+    height: 50%;
+    border-collapse: collapse;
+    background-color: rgb(178, 233, 231);
+    border-radius: 8px;
+}
+
+.head {
+    background-color: rgb(175, 213, 105);
+}
+
+.time {
+    background-color: rgb(76, 173, 172);
+}
+
+.weeks-color {
+    background-color: rgb(207, 105, 118);
+}
+
+.number-of-periods {
+    background-color: rgb(157, 100, 200);
+}
+
+.timing {
+    background-color: #7fe1a4;
+}
+
+th,
+td {
+    padding: 10px;
+    border: 2px solid rgb(185, 159, 159);
+
+}
